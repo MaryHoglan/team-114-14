@@ -1,0 +1,253 @@
+/** @format */
+
+/* #region base */
+html {
+    scroll-behavior: smooth;
+    }
+
+body {
+    font-family: "Manrope", sans-serif;
+    background-color: #fff;
+    color: #121417;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    font-family: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+/* #endregion */
+
+
+
+
+
+
+/* #region Header */
+.page-header { display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 20px 128px;
+    width: 1280px;
+    height: 84px;
+    
+}
+
+.container {}
+
+.header-conreiner { 
+}
+
+
+.header-nav { 
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    
+    
+}
+
+.logo {}
+
+.header-logo { display: flex;
+    align-items: flex-start;
+    
+}
+    
+
+.logo-part {
+    color: #4dc274;
+}
+
+.nav-list { 
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+    }
+
+.nav-item { 
+    display: flex;
+    align-items: center;
+    gap: 6px;}
+
+.header-social {}
+
+.social-list {}
+
+.social-items {}
+
+.social-link {}
+
+.social-icon {}
+
+/* #endregion */
+
+/* #region Hero */
+
+/* #endregion */
+
+
+
+
+
+
+
+
+
+
+
+
+/* #region About */
+
+.section {
+    padding: 150px 0;
+}
+.about {
+
+    padding-top: 96px;
+}
+
+
+
+.container {
+    width: 1064px;
+    margin: 0 auto;
+    padding: 0 20px;
+ }  
+
+
+
+.title { font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+
+
+ 
+  
+
+.text { 
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.66667;
+    color: rgba(18, 20, 23, 0.5);
+    width: 650px;
+    margin: 0 auto 64px;
+    text-align: center;
+}
+
+.about-body {
+    display: flex;
+}
+
+.about-list {
+    display: flex;
+    gap: 32px;
+        flex-wrap: wrap;
+    
+}
+
+.about-item { 
+    background: #f3f5f6;
+    border-radius: 30px;
+    max-width: 325px;
+    padding: 32px;
+    
+ 
+}
+
+.about-item-title {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1.14286;
+    letter-spacing: -0.02em;
+    color: #4dc274;
+    margin-bottom: 16px;
+}
+
+.about-item-text { 
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    width: 261px;
+}
+
+.about-inner {
+    background-color: #4dc274;
+    border-radius: 30px;
+    width: 310px;
+    height: 352px;
+    margin-left: 32px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-img {
+    
+}
+
+/* #endregion */
+
+/* #region Our lesson */
+
+/* #endregion */
+
+/* #region Power of English */
+
+/* #endregion */
+
+/* #region Our teachers */
+
+/* #endregion */
+
+/* #region Leave an application */
+
+/* #endregion */
+
+/* #region Reviews */
+
+/* #endregion */
+
+/* #region Footer */
+
+/* #endregion */
